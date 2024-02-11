@@ -3,7 +3,6 @@ ML enthusiast, especially Computer Vision.
 Currently learning TensorFlow from Tensorflow Course by Zero to Mastery on Udemy.
 Also Korean and Dutch, if that matters.
 
-I
 I just learn whatever makes me curious enough to persuade it.
 
 Where to find me:
